@@ -19,5 +19,7 @@ significantly less computational requirements.
 
 DOI: 10.22541/essoar.174671893.31045476/v1
 
+<img width="3264" height="3508" alt="Image" src="https://github.com/user-attachments/assets/9ef77da0-dc19-477f-a7f9-a05336f20dcb" />
+
 
 
